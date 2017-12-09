@@ -1,7 +1,6 @@
 body{
 	margin: 0 auto;
 	background-color: white;
-	font-size: 50px;
 	color: blue;
 }
 
@@ -11,5 +10,5 @@ figure {
 
 }
 figure img{
-	
+	width:100%;
 }
