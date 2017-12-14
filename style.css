@@ -1,6 +1,6 @@
 header{
-c1 h1{color:blue;}
-c2 h1{color:red;}
-c3 h1{color:yellow;}
-c4 h1{color:green;}
+.c1 h1{color:blue;}
+.c2 h1{color:red;}
+.c3 h1{color:yellow;}
+.c4 h1{color:green;}
 }
