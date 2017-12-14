@@ -1,4 +1,4 @@
-header h1 {c1.color:blue;}
+header h1.c1 {color:blue;}
 header h1 c2{color:red;}
 header h1 c3{color:yellow;}
 header h1 c4{color:green;}
