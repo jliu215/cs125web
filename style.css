@@ -1,3 +1,7 @@
-body{
-  background-color:black;
+<img src = "gmail.png">
+
+img {
+    position: fixed;
+    bottom:0;
+    left: 0
 }
