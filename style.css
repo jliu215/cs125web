@@ -1,7 +1,9 @@
 body{
+    
+    width:100%;
+    max_width:1000px;
+    margin:0 auto;
     background-image:url("Ball.jpg");
-    margin:auto;
- 
         }
 
 
