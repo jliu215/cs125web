@@ -1,9 +1,10 @@
-html{
-    text-align:center;
-}
+
 body{
-    
-    width:100%;
+    body
+    {
+        width:80%;
+    margin-left:auto;
+    margin-right:auto;
     max-width:960px;
     margin: auto;
     background-image:url("Ball.jpg");
